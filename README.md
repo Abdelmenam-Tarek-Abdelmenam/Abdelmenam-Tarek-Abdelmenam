@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelmenam-Tarek-Abdelmenam
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning machine learning algorithms
+- 👀 I’m interested in mobile development 
+- 🌱 I’m currently learning flutter
 
 <!---
 Abdelmenam-Tarek-Abdelmenam/Abdelmenam-Tarek-Abdelmenam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
