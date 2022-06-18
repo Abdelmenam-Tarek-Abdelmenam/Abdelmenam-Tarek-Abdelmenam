@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Abdelmenam Tarek Abdelmenam</h1>
 <h3 align="center">Mobile developer | Flutter developer</h3>
 
-- 🔭 I’m currently working on [Shop App](https://github.com/Abdelmenam-Tarek-Abdelmenam/shop-app)
+- 🔭 I’m currently working on [Truck Scale App](https://github.com/Abdelmenam-Tarek-Abdelmenam/Truck-Scale)
 
 - 🚀 The last project i work on was [EME-IH Borg](https://play.google.com/store/apps/details?id=eme.borg.easy_tag)
 
